@@ -2,7 +2,6 @@
 ### Hi there 👋
 
 - 🌱 I’m currently learning coding!
-- 🤔 I’m looking for help with everything, i am new here
 - 💬 Ask me about- nvm i am the one who'll ask
 - 📫 You can reach me on discord.gg/theflame
 - 😄 Pronouns: He/Him
