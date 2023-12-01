@@ -6,4 +6,4 @@
 - 📫 You can reach me on discord.gg/theflame
 - 😄 Pronouns: He/Him
 - ⚡ I play minecraft, valorant, and other stuff
--->
+- ✨ Creating this README is the first ever thing i am doing on GitHub
