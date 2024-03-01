@@ -2,8 +2,4 @@
 ### Hi there 👋
 
 - 🌱 I’m currently learning coding! (Java/Kotlin)
-- 💬 Ask me about- nvm i am the one who'll ask
 - 📫 You can reach me on discord.gg/theflame
-- 😄 My Pronouns are He/Him
-- ⚡ I play minecraft, valorant, cyberpunk 2077 and a lot other stuff
-- ✨ Creating this README is the first ever thing i am doing on GitHub
