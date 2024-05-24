@@ -6,4 +6,3 @@
 - administrating some smol discord servers
 - games > minecraft, valorant and cyberpunk
 - **my avatar was made by @paulinezyx**
-- <img src="https://komarev.com/ghpvc/?username=foenichs30009&&style=flat-square" align="left" />
